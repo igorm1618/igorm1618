@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm igor</h1>
 <h3 align="center">Coding enthusiast and applied learner.</h3>
 
-- 🔭 I’m currently working on **Javascrypt**
+- 🔭 I’m currently working on **Power BI**
 
 - 🌱 I’m currently learning **Javascript, Python and SQL.**
 
